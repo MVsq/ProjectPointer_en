@@ -22,7 +22,7 @@ question-answer mode based on parsed "answers mailru" (1.5 kk lines) + yandex se
 
 ---
 
-## Recommender systems in retail 
+## Retail recommendation system
 
 ### [Course Repo](https://github.com/Nickel-nc/GU_Rec_Systems)
 Rec sys practical course. Consists of 1 & 2 level recommender models (finally used 1 lv recommender). 
@@ -32,7 +32,7 @@ Contains: .py modules, full data flow jupiter-notebook and docker-container.
 
 ---
 
-## ParkOn projcet. Parking cars detection computer vision project 
+## ParkOn project. Parking cars detection computer vision project 
 
 ### [Project Repo](https://github.com/Nickel-nc/ParkOn_proj)
 Self-project in computer vision (object detection) as part of team crossfunctional MPV development. 
